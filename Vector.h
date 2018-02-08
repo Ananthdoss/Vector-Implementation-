@@ -1,4 +1,9 @@
-
+*************************************************************************/
+/*  Customized implementation of std::vector 										 */
+/*	Author:Ananth S												 */
+/*	License: GPL											 			 */
+/*																		 */
+/*************************************************************************/
 
 template <class T>
 class  Vector {
