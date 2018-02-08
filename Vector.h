@@ -34,6 +34,7 @@ public:
     Vector<T> & operator = (const Vector<T> &);
     void clear();
 	
+	
 private:
     unsigned int _size;
     unsigned int _capacity;
