@@ -54,6 +54,7 @@ Vector<T>::Vector()
 
 
 template<class T>
+Vector<T>::Vector(Vector<T> const& v)
     : _size(v._size)
     , _capacity(v._capacity)
     , Log(v.Log)
